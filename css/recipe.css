@@ -1,0 +1,53 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    margin: 1.5rem auto;
+    color: darkgoldenrod;
+    font-size: 3rem;
+    font-weight: bold;
+}
+img {
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+}
+p {
+    margin: 1.5rem 1.5rem 1.5rem 0.5rem;
+    padding: 5px, 0;
+    text-indent: 10px;
+}
+a {
+    margin: 0 auto;
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+a:hover {
+    color: #393821;
+}
+
+h2 {
+    font-size: 1.3rem;
+    margin: 1rem 8px;
+}
+ul {
+    margin-left: 30px;
+}
+ul li {
+    padding: 5px 0;
+}
+ol {
+    margin-left: 40px;
+}
+ol li {
+    padding: 5px 3px;
+}
